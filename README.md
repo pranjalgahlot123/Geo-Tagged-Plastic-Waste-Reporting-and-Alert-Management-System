@@ -1,0 +1,2 @@
+# Geo-Tagged-Plastic-Waste-Reporting-and-Alert-Management-System
+The Geo-Tagged Plastic Waste Reporting and Alert Management System is an AI-powered platform designed to detect, report, and manage plastic waste using image classification and location-based tracking. The system integrates advanced computer vision techniques with geospatial data to enable efficient waste monitoring and environmental management.
